@@ -10,5 +10,10 @@ def hipot(a, b):
 результата"""
     return sqrt(a*a +b*b)
 
+def Heron(a, b, c):
+""" Вычисляет площадь треугльника по формуле Герона"""
+    p = (a+b+c)/2
+    return sqrt((p-a)*(p-b)*(p-c))
+
 if __name__=='__main__':
     print('Вызов',__name__)
