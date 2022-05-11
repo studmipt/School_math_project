@@ -9,3 +9,5 @@
 2.   скачать репозиторий можно с помощью git (если git установлен, то следует использовать команду  
  `git clone https://github.com/studmipt/School_math_project.git`). Если git не установлен, то можно загрузить архив проекта https://github.com/studmipt/School_math_project/archive/refs/heads/main.zip и затем разархивировать его. 
 3.    Находясь в папке с репозиторием, можно запустить выполнение с помощью команды `python main.py` или использовать для запуска main.py любые имеющиеся Python-IDE (IDLE, PyCharm и др.). 
+[!NOTE]
+Это учебный проект
