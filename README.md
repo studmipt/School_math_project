@@ -7,5 +7,5 @@
 Для работы с репозиторием следует:
 1.   иметь на компьютере установленный интерпретатор языка программирования Python версии 3 и выше. 
 2.   скачать репозиторий можно с помощью git (если git установлен, то следует использовать команду  
- `git clone https://studmipt.github.com/studmipt/task32.git`). Если git не установлен, то можно загрузить архив проекта (https://github.com/studmipt/task32/archive/refs/heads/main.zip). 
+ `git clone https://studmipt.github.com/studmipt/task32.git`). Если git не установлен, то можно загрузить архив проекта (https://github.com/studmipt/School_math_project/archive/refs/heads/main.zip). 
 3.    
