@@ -6,4 +6,6 @@
 
 Для работы с репозиторием следует:
 1.   Иметь на компьютере установленный интерпретатор языка программирования Python версии 3 и выше. 
-2.   Скачать репозиторий можно с помощью git (если git установлен. То следует использовать команду `git clone https://studmipt.github.com/studmipt/task32.git`) или загрузив архив проекта (https://github.com/studmipt/task32/archive/refs/heads/main.zip). 
+2.   Скачать репозиторий можно с помощью git (если git установлен, то следует использовать команду  
+ `git clone https://studmipt.github.com/studmipt/task32.git`). Если git не установлен, то можно загрузить архив проекта (https://github.com/studmipt/task32/archive/refs/heads/main.zip). 
+4.   
